@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm KhRote 👋
 
-<!--
-**SametEfeSarica/SametEfeSarica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Beginner developer focused on C# and SQL  
+💡 Interested in technology, game development and productivity apps  
+🚀 Currently working on personal projects like NOYON
 
-Here are some ideas to get you started:
+## Technologies
+- C#
+- SQL
+- Git
+- Android Studio
+- React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Improve backend development skills
+- Build useful and clean applications
