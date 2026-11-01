@@ -1,4 +1,4 @@
-# Hi, I'm KhRote 👋
+# I'm KhRote
 
 🎓 Beginner developer focused on C# and SQL  
 💡 Interested in technology, game development and productivity apps  
